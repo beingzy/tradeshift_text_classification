@@ -1,0 +1,4 @@
+data/*
+aws/*
+aws_keypair.py
+*.pyc
